@@ -23,4 +23,4 @@ To create a graph of the model, plot the linear regression line on top of the sc
 ![Scatter plot and Graph of the Model.](resources/4.png)
 
 
-![Project-Python Implementation of Linear Regression Line.](resources/ProjectPythonImplementation.ipynb)
+![Project-Python-Implementation-of-Linear-Regression-Line.](resources/ProjectPythonImplementation.ipynb)
